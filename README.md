@@ -32,4 +32,4 @@
 ![](Image/Student.jpg)
 - ### **老师界面**
 
-![](Image/Teacher1.jpg)
+![](Image/Teacher.jpg)
